@@ -1,7 +1,7 @@
-Foothold
+Girdle
 ======
 
-A template for creating JavaScript apps with a grunt-driven build process.
+Horizontal scrollers that use force directed input.
 
 ======
 
