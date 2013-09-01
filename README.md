@@ -1,7 +1,7 @@
 Girdle
 ======
 
-Horizontal scrollers that use force directed input.
+Horizontal scrollers that use force directed input. Check out the 'public' folder to see them in action.
 
 ======
 
