@@ -1,7 +1,9 @@
 Girdle
 ======
 
-Horizontal scrollers that use force directed input. Check out the 'public' folder to see them in action.
+Girdle is a collection of experiments using force directed input to control a horizontal scroller.
+
+Check out examples the 'public' or visit http://foldi.github.io/Girdle to see them in action.
 
 Building this project
 ======
